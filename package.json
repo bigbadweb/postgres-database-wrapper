@@ -1,0 +1,25 @@
+{
+  "name": "@bigbadweb/postgres-database-wrapper",
+  "version": "1.1.0",
+  "description": "A simple wrapper for postgres",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigbadweb/postgres-database-wrapper.git"
+  },
+  "keywords": [
+    "postgres",
+    "wrapper",
+    "database",
+    "simple"
+  ],
+  "author": "Matt Stabeler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bigbadweb/postgres-database-wrapper/issues"
+  },
+  "homepage": "https://github.com/bigbadweb/postgres-database-wrapper#readme"
+}

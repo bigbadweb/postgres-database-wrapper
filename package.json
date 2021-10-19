@@ -4,7 +4,8 @@
   "description": "A simple wrapper for postgres",
   "main": "database.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version --commit-all"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/bigbadweb/postgres-database-wrapper/issues"
   },
-  "homepage": "https://github.com/bigbadweb/postgres-database-wrapper#readme"
+  "homepage": "https://github.com/bigbadweb/postgres-database-wrapper#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  }
 }

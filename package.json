@@ -1,6 +1,6 @@
 {
   "name": "@bigbadweb/postgres-database-wrapper",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A simple wrapper for postgres",
   "main": "database.js",
   "scripts": {
